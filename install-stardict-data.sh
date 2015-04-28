@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sudo apt-get install sdcv
+
 mkdir -p ~/.stardict/dic/
 
 if [ -f stardict-langdao-ce-gb-2.4.2.tar.bz2 ];then

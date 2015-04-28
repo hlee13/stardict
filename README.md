@@ -1,0 +1,2 @@
+# stardict-data
+stardict-data
